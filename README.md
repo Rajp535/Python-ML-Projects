@@ -39,9 +39,9 @@ To predict laptop prices based on specifications such as company, processor, scr
 - Important features influencing price: company brand, CPU model, RAM size, GPU, screen resolution.
 
 ## 📁 Files
-- `Laptop_Price_Prediction.ipynb` – Full notebook for EDA, preprocessing, modeling, and evaluation.
+- `Laptop Price Prediction.ipynb` – Full notebook for EDA, preprocessing, modeling, and evaluation.
 - `laptop_data.csv` – Dataset used for model development.
-- `laptop_price_model.pkl` – Pickle file of the best-trained Gradient Boosting model.
+- `laptop price model.pkl` – Pickle file of the best-trained Gradient Boosting model.
 
 ## ✅ Outcome
 Developed a powerful price prediction model achieving around **86%-93% accuracy** depending on the model, useful for online e-commerce or resale platforms to suggest fair laptop pricing.
